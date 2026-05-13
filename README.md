@@ -17,6 +17,8 @@ Este proyecto contiene una Landing page institucional desarrollada en HTML y CSS
 ├── README.md
 └── fotos/
     └── espe.ico
+    └── bgwhite.png
+    └── logofedetec.ico
 ```
 
 ---
